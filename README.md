@@ -362,12 +362,6 @@ If you use this work, please cite:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - Amazon for the ESCI dataset
@@ -378,3 +372,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **⭐ If this project helped you, please consider starring it on GitHub!**
+
