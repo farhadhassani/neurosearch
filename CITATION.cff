@@ -1,0 +1,28 @@
+# CITATION.cff - Citation File Format
+# Use this file to cite the Neurosearch project
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Neurosearch: Hybrid Generative Retrieval for E-Commerce"
+version: 1.0.0
+date-released: 2025-12-01
+url: "https://github.com/farhadhassani/neurosearch"
+repository-code: "https://github.com/farhadhassani/neurosearch"
+license: MIT
+authors:
+  - family-names: "Hassani"
+    given-names: "Farhad"
+    email: "farhadh202@gmail.com"
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # Add your ORCID if you have one
+keywords:
+  - information retrieval
+  - hybrid search
+  - dense retrieval
+  - generative retrieval
+  - e-commerce search
+  - sentence-bert
+  - T5
+  - FAISS
+  - reciprocal rank fusion
+abstract: "A production-grade hybrid retrieval system combining Dense Retrieval (Sentence-BERT), Sparse Retrieval (BM25), and Generative Retrieval (T5-DSI) for e-commerce product search. Achieves +15% NDCG@10 improvement using Reciprocal Rank Fusion. Demonstrates expert-level understanding of Information Retrieval theory, deep learning, and scalable ML systems."

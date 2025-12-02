@@ -1,0 +1,7 @@
+{
+  "dataset": 1818825,
+  "model_dim": 384,
+  "pca_90": 144,
+  "improvement": "+10%",
+  "best_ndcg": 0.71
+}
